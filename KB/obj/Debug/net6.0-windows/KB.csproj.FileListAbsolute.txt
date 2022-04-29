@@ -1,0 +1,36 @@
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\KB.csproj.AssemblyReference.cache
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\KB.Form1.resources
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\KB.Properties.Resources.resources
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\KB.csproj.GenerateResource.cache
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\KB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\KB.AssemblyInfoInputs.cache
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\KB.AssemblyInfo.cs
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\KB.csproj.CoreCompileInputs.cache
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\bin\Debug\net6.0-windows\KB.exe
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\bin\Debug\net6.0-windows\KB.deps.json
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\bin\Debug\net6.0-windows\KB.runtimeconfig.json
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\bin\Debug\net6.0-windows\KB.dll
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\bin\Debug\net6.0-windows\KB.pdb
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\KB.dll
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\refint\KB.dll
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\KB.pdb
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\KB.genruntimeconfig.cache
+C:\Users\Jovelyn Vitales\Documents\AAA-BUSUEGO_KAYE\KB\KB\obj\Debug\net6.0-windows\ref\KB.dll
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\bin\Debug\net6.0-windows\KB.exe
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\bin\Debug\net6.0-windows\KB.deps.json
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\bin\Debug\net6.0-windows\KB.runtimeconfig.json
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\bin\Debug\net6.0-windows\KB.dll
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\bin\Debug\net6.0-windows\KB.pdb
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\KB.csproj.AssemblyReference.cache
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\KB.Form1.resources
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\KB.Properties.Resources.resources
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\KB.csproj.GenerateResource.cache
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\KB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\KB.AssemblyInfoInputs.cache
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\KB.AssemblyInfo.cs
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\KB.csproj.CoreCompileInputs.cache
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\KB.dll
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\refint\KB.dll
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\KB.pdb
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\KB.genruntimeconfig.cache
+C:\Users\Jovelyn Vitales\Documents\KAYE BUSUEGO - OOP\KB\KB\obj\Debug\net6.0-windows\ref\KB.dll
